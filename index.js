@@ -1,9 +1,5 @@
-function divide(a, b) {
-    return a / b;
-}
-function square(n) {
-    return n * n
-}
-function add (a,b){
-    return a + b
-}
+const divide = (a , b) => a / b;
+
+const square = (x) => x * x;
+
+const add = (a, b) => a + b
